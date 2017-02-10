@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/dutch/gentools.svg?branch=master
+   :target: https://travis-ci.org/dutch/gentools
+
 Gentools
 ========
 
